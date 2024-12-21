@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "submissionmlgc-denisafitraa",
+  "private_key_id": "77e4364c6ef61c37c553f855e781842ba2203596",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCgF56vHAYFE8dZ\nQGGTGGRSO+W0t4wrIJc5tY1zlt1jPdaOLOy962ocuqJGyK8JwnFqLNZL0oOrIlyU\n47dxTdTfuogfk946zaOTdjqqMjr/frS/GQOuLxnh4Q6vC+cYAtXgipZjUv9KBDUZ\nvOFrr4LqR0jlmvRpbj47261dp9DSKBycgLNfQ+odvrGvmKGRP8ZMs9AjJrKilrdB\nmfdGGGZtzQwxgMcvTs2/tsEGC9cZjL3yryjgFvHwdqwvnj9clhz7voYYipkM0zKW\nT/KXG+xKfQ2euqJ8UEhNTR3YOTWVKQpCUzdBjqauMY/5N7uVlpbo/mT3Yd2d1AbC\n6nn9uEGPAgMBAAECggEACGqle5RQFrU+/ki9uIOIRrCCd5lMw7mvaafLW3/bfMuz\n+36OJb/6MK95N5p2ZV91If1geNUE+hrQ3j0ImGrcnbSLUomuHc5Q4sBM/kSsyGDr\ndL6GbIJqbG8uG/LWv/LqNqdil68137jP593/xe8QxWthAD1Ay0gx+mimuS1I87t1\n1dg1oWsGJBsrhFTP3/JRQtKKCTBWAAjrRwhUb45uAN0v1mPBHuH5if2aKRsBmJCW\nySE2ZOhM+foFYVO6R/+UXj66+CaGIZY9T3zlHcEb+bWWB3uzJRJOgn3RPy8maRsp\n1iwGCbeuKW6Y4KfpDJwADZso1ddgHfK52wSZkWeR+QKBgQDQh55aKe1t2WWvM4sI\n5MlnIczfayhWzB3WaH4xI6bYcH4Qv6XV2nRtHrUhVLq6WAd6iZw0vjzKSyYbonVO\nxwG+42i/zwH+OxhE//mArjMDBNIUnN87o7D6YfiWKXFqK8XhlY4D/URsDQgxBKip\ne6sIpuG3s0rHx5yYuyl3PNwY+QKBgQDEiTv+OABLEiKTcYPnTQKPYLXDrRS/AB+L\n9tIIpC5YlU/SWeyDixW2MA9lKoZLyE4k22JqXxkO66PBAZRoCqY1nVyOm78xtsTa\nz0XxUqipdkrio0sjnzEvnrPpy6dRint/D4ZwP73PtCnBrlL769m/smZ/f0qdhXbb\n+dN3xnWYxwKBgBg/vQ1VFNQSVL3D66YUHMuOZamRZ3Z4c/vL2OjT8YH3yuEduCYf\nKizKRlvi43fp5qy8Ndr4SE9p37uU77lCcRSGk1bCtsOekZrsfVIWb74pIFjfSSJB\nTcJABE1J8nNbNb6eyo3yNLOv7ETu+sICrIfsCBF5mveSYcZs9Ux1Wk7ZAoGAWfZz\npr+dqr9nYlSQy1zd8iGTsjlVCMUWq6vUoq38pQHb4u7Uq7YLvzSqp2Vaye+rjYV6\nvDRBtSm58Iw3kZRmVp5skr7KOwhtfbdpTbjHiaKjTrDuoSSqkCC2PCvDsDiSpSvH\nHzSePyg6APU5+SURrIUOFAiBcC96o+DsoqQOilsCgYEAooWt979l794Edh9N5YaD\nfUgXmesnkpTjW11QC7tfHCTxCDcdvR792IonaDcpkI4R070oKN0Egy641mn4Ipge\n8FHXgdWubCPaj80IPg5MMFXrZ+MjVE58CUvWaRcnuqyvMWlFlSWtO4RsTGYXg8+r\nmJTQyoF1XG8pqiUG52jP08w=\n-----END PRIVATE KEY-----\n",
+  "client_email": "submissionmlgc-denisafitraa@submissionmlgc-denisafitraa.iam.gserviceaccount.com",
+  "client_id": "111112448453784827901",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/submissionmlgc-denisafitraa%40submissionmlgc-denisafitraa.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
